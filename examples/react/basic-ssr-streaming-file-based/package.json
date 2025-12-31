@@ -28,7 +28,7 @@
     "@types/express": "^4.17.21",
     "@vitejs/plugin-react": "^4.3.1",
     "compression": "^1.7.4",
-    "express": "^4.19.2",
+    "express": "^4.22.0",
     "isbot": "^5.1.14",
     "node-fetch": "^3.3.2",
     "serve-static": "^1.15.0",
