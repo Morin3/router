@@ -22,7 +22,7 @@
     "@types/node": "^20.12.11",
     "@types/react": "^18.2.65",
     "@types/react-dom": "^18.2.21",
-    "eslint": "^8.57.0",
+    "eslint": "^9.26.0",
     "eslint-config-react-app": "^7.0.1",
     "prettier": "^3.3.3",
     "typescript": "^5.5.3",
